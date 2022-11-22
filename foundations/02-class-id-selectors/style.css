@@ -1,0 +1,21 @@
+/* styles */
+
+.odd {
+    background-color: #ff99CC;
+    font-family: "Verdana", "DejavuSans", sans-serif;
+}
+
+.big-font {
+    font-size: 24px;
+}
+
+#two {
+    color: #3333FF;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #33ff33;
+    font-size: 24px;
+    font-weight: bold;
+}
